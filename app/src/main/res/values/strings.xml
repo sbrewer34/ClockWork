@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClockWork</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_measurement">MeasurementActivity</string>
+    <string name="title_activity_collection">CollectionActivity</string>
+</resources>
